@@ -23,7 +23,7 @@
 				<h2>あなたの診断結果は・・・<br></h2>
 
 			</div>
-			<div class="pushbutton2">
+			<div class="pushbutton2 fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true">
 				<a href="#"><p class="pushtext2">いいねをする</p></a>
 			</div>
 			<div class="pushbutton3">
