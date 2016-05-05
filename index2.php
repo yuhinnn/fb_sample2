@@ -24,7 +24,7 @@
 
 			</div>
 			<div class="pushbutton2">
-				<a data-href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
+				<a href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
 			</div>
 			<div class="pushbutton3">
 				<a href="#"><p class="pushtext3">結果をシェアする</p></a>
