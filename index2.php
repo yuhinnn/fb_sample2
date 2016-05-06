@@ -13,6 +13,12 @@
 	<title>診断結果</title>
 </head>
 <body>
+  <div
+  class="fb-like"
+  data-share="true"
+  data-width="450"
+  data-show-faces="true">
+</div>
   <div id="fb-root"></div>
 
   <script>
@@ -61,6 +67,7 @@
 		</div>
 
   <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
 
 
 
