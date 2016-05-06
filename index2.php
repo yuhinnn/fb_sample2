@@ -51,30 +51,15 @@
 			<div class="pushbutton2">
 				<a href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
 			</div>
-			<div class="pushbutton3">
-				<a data-share="true" href="https://developers.facebook.com/docs/"><p class="pushtext3">結果をシェアする</p></a>
-			</div>
+      <a class="pushbutton3" href="http://www.facebook.com/share.php?u=【シェアしたいURL】" onclick="window.open(encodeURI(decodeURI(this.href)),
+      'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
+
+      結果をシェアする
+    </a>
+
 		</div>
-	</div>
+
   <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-
-
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&show_faces=true&share=true&height=80&appId=195024384223971"
-width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-
-
-
-
-<a href="http://www.facebook.com/share.php?u=【シェアしたいURL】" onclick="window.open(encodeURI(decodeURI(this.href)),
-'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
-
-<div class="pushbutton3">
-  <a data-share="true" href="https://developers.facebook.com/docs/"><p class="pushtext3">結果をシェアする</p></a>
-</div>
-
-</a>
-
 
 </body>
 </html>
