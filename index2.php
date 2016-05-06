@@ -25,7 +25,7 @@
     // ADD ADDITIONAL FACEBOOK CODE HERE
     FB.ui({
   method: 'share',
-  href: 'https://developers.facebook.com/docs/',
+  href: 'https://apps.facebook.com/yuhinnntb/',
 }, function(response){});
 
   };
