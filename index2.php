@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/index1.css">
 	<title>TBFBappresalt</title>
@@ -46,11 +46,16 @@
 				<a href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
 			</div>
 			<div class="pushbutton3">
-				<a data-share="true" href="https://developers.facebook.com/docs/plugins/"><p class="pushtext3">結果をシェアする</p></a>
+				<a data-share="true" href="https://developers.facebook.com/docs/"><p class="pushtext3">結果をシェアする</p></a>
 			</div>
 		</div>
 	</div>
   <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&show_faces=true&share=true&height=80&appId=195024384223971"
+width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
 
 </body>
 </html>
