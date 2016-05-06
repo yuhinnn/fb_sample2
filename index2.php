@@ -6,9 +6,10 @@
   <meta property="og:description" content="ページの説明" />
   <meta property="og:type" content="ページのタイプ" />
   <meta property="og:url" content="ページURL" />
-  <meta property="og:image" content="画像URL" />
+  <meta property="og:image" content="https://apps.facebook.com/yuhinnntb/images/TBLogo/TB500x300.png" />
   <meta property="og:locale" content="ja_JP" />
 	<link rel="stylesheet" type="text/css" href="css/index1.css">
+  <link rel="opengraph" href="{DESTINATION_URL}"/>
 	<title>診断結果</title>
 </head>
 <body>
