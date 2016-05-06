@@ -13,12 +13,7 @@
 	<title>診断結果</title>
 </head>
 <body>
-  <div
-  class="fb-like"
-  data-share="true"
-  data-width="450"
-  data-show-faces="true">
-</div>
+  
   <div id="fb-root"></div>
 
   <script>
