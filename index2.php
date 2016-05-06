@@ -48,8 +48,8 @@
 				<h2>あなたの診断結果は・・・<br></h2>
 
 			</div>
-			<div class="pushbutton2">
-				<a href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
+			<div class="pushbutton2 fb_share">
+				<a href="#"><p class="pushtext2">いいねをする</p></a>
 			</div>
       <a class="pushbutton3" href="http://www.facebook.com/share.php?u=【シェアしたいURL】" onclick="window.open(encodeURI(decodeURI(this.href)),
       'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
