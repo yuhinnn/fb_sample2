@@ -9,7 +9,7 @@
   <meta property="og:image" content="画像URL" />
   <meta property="og:locale" content="ja_JP" />
 	<link rel="stylesheet" type="text/css" href="css/index1.css">
-	<title>TBFBappresalt</title>
+	<title>診断結果</title>
 </head>
 <body>
   <div id="fb-root"></div>
