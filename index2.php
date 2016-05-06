@@ -13,7 +13,16 @@
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.6&appId=607456416083903";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+
+
+FB.ui({
+  method: 'share',
+  href: 'https://developers.facebook.com/docs/',
+}, function(response){});
+
+
+</script>
 	<div class="main">
 		<div class="content">
 			<div class="TBlogo">
@@ -27,7 +36,7 @@
 				<a href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
 			</div>
 			<div class="pushbutton3">
-				<a data-share="true" data-href="https://developers.facebook.com/docs/plugins/"><p class="pushtext3">結果をシェアする</p></a>
+				<a data-share="true" href="https://developers.facebook.com/docs/plugins/"><p class="pushtext3">結果をシェアする</p></a>
 			</div>
 		</div>
 	</div>
