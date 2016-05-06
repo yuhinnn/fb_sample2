@@ -61,8 +61,6 @@
 
   <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-<a href="https://www.facebook.com/dialog/feed?app_id=607456416083903&link=https://a.pairs.lv/pexam/index.php/diagnosis/index/goal_pose&picture=https://a.pairs.lv/pexam/assets/img/goal_pose/shares/share_02.png&name=
-旅先診断&caption=&description=&redirect_uri=https://a.pairs.lv/pexam/"> a </a>
 
 
 </body>
