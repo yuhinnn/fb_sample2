@@ -2,6 +2,12 @@
 <html lang="ja">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<meta charset="utf-8">
+  <meta property="og:title" content="ページタイトル" />
+  <meta property="og:description" content="ページの説明" />
+  <meta property="og:type" content="ページのタイプ" />
+  <meta property="og:url" content="ページURL" />
+  <meta property="og:image" content="画像URL" />
+  <meta property="og:locale" content="ja_JP" />
 	<link rel="stylesheet" type="text/css" href="css/index1.css">
 	<title>TBFBappresalt</title>
 </head>
@@ -55,6 +61,19 @@
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&show_faces=true&share=true&height=80&appId=195024384223971"
 width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+
+
+
+
+<a href="http://www.facebook.com/share.php?u=【シェアしたいURL】" onclick="window.open(encodeURI(decodeURI(this.href)),
+'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
+
+<div class="pushbutton3">
+  <a data-share="true" href="https://developers.facebook.com/docs/"><p class="pushtext3">結果をシェアする</p></a>
+</div>
+
+</a>
 
 
 </body>
