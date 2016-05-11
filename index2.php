@@ -57,11 +57,12 @@
       <div class="pushbutton3">
       <a href="http://www.facebook.com/share.php?u=https://apps.facebook.com/yuhinnntb/" onclick="window.open(encodeURI(decodeURI(this.href)),
       'FBwindow' menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
-      </a>
+
 
 
       <p class="pushtext3">シェアする</p>
       </div>
+		</a>
 
 		</div>
 
