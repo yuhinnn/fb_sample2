@@ -13,7 +13,7 @@
 	<title>診断結果</title>
 </head>
 <body>
-  
+
   <div id="fb-root"></div>
 
   <script>
@@ -53,6 +53,7 @@
 			<div class="pushbutton2 fb_share">
 				<a href="#"><p class="pushtext2">いいねをする</p></a>
 			</div>
+			
       <a class="pushbutton3" href="http://www.facebook.com/share.php?u=https://apps.facebook.com/yuhinnntb/" onclick="window.open(encodeURI(decodeURI(this.href)),
       'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
 
