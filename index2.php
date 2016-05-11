@@ -54,10 +54,10 @@
 				<a href="#"><p class="pushtext2">いいねをする</p></a>
 			</div>
 
-      <div class="pushbutton3">
+
       <a href="http://www.facebook.com/share.php?u=https://apps.facebook.com/yuhinnntb/" onclick="window.open(encodeURI(decodeURI(this.href)),
       'FBwindow' menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
-
+      <div class="pushbutton3">
 
 
       <p class="pushtext3">シェアする</p>
