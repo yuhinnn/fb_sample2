@@ -6,12 +6,14 @@
   <meta property="og:description" content="ページの説明" />
   <meta property="og:type" content="ページのタイプ" />
   <meta property="og:url" content="ページURL" />
-  <meta property="og:image" content="画像URL" />
+  <meta property="og:image" content="https://apps.facebook.com/yuhinnntb/images/TBLogo/TB500x300.png" />
   <meta property="og:locale" content="ja_JP" />
 	<link rel="stylesheet" type="text/css" href="css/index1.css">
-	<title>TBFBappresalt</title>
+  <link rel="opengraph" href="{DESTINATION_URL}"/>
+	<title>診断結果</title>
 </head>
 <body>
+  
   <div id="fb-root"></div>
 
   <script>
@@ -25,7 +27,7 @@
     // ADD ADDITIONAL FACEBOOK CODE HERE
     FB.ui({
   method: 'share',
-  href: 'https://developers.facebook.com/docs/',
+  href: 'https://apps.facebook.com/yuhinnntb/',
 }, function(response){});
 
   };
@@ -48,10 +50,10 @@
 				<h2>あなたの診断結果は・・・<br></h2>
 
 			</div>
-			<div class="pushbutton2">
-				<a href="https://developers.facebook.com/docs/plugins/"><p class="pushtext2">いいねをする</p></a>
+			<div class="pushbutton2 fb_share">
+				<a href="#"><p class="pushtext2">いいねをする</p></a>
 			</div>
-      <a class="pushbutton3" href="http://www.facebook.com/share.php?u=【シェアしたいURL】" onclick="window.open(encodeURI(decodeURI(this.href)),
+      <a class="pushbutton3" href="http://www.facebook.com/share.php?u=https://apps.facebook.com/yuhinnntb/" onclick="window.open(encodeURI(decodeURI(this.href)),
       'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
 
       結果をシェアする
@@ -60,6 +62,9 @@
 		</div>
 
   <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+
+
 
 </body>
 </html>
