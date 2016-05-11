@@ -13,13 +13,15 @@
   height: 600px;
   background-color: #fcfdfd;
   margin: 0 auto;
-  background-image: url(../images/background1.png); }
+  background-image: url(../images/background1.pn); }
 
 /* line 18, ../sass/style.scss */
 .TBlogo {
   width: 500px;
   height: 300px;
-  margin: 0 auto; }
+  margin: 0 auto; 
+  background-image: url(../images/TBlogo/TB500x300.png); 
+  }
 
 /* line 23, ../sass/style.scss */
 .iine {

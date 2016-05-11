@@ -1,0 +1,1 @@
+$('pushbutton').animate({shadow: '0 0 50px'}, 'fast'); 
