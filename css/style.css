@@ -15,6 +15,11 @@
   margin: 0 auto;
   background-image: url(../images/background1.png); }
 
+  .TBlogo {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto; }
+
 /* line 16, ../sass/style.scss */
 .textbox {
   text-align: center;
