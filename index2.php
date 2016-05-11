@@ -8,7 +8,7 @@
   <meta property="og:url" content="ページURL" />
   <meta property="og:image" content="https://apps.facebook.com/yuhinnntb/images/TBLogo/TB500x300.png" />
   <meta property="og:locale" content="ja_JP" />
-	<link rel="stylesheet" type="text/css" href="css/index1.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="opengraph" href="{DESTINATION_URL}"/>
 	<title>診断結果</title>
 </head>
@@ -56,7 +56,7 @@
       <a class="pushbutton3" href="http://www.facebook.com/share.php?u=https://apps.facebook.com/yuhinnntb/" onclick="window.open(encodeURI(decodeURI(this.href)),
       'FBwindow', 'width=554, height=470, menubar=no, toolbar=no, scrollbars=yes'); return false;" rel="nofollow">
 
-      結果をシェアする
+      シェアする
     </a>
 
 		</div>

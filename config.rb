@@ -11,7 +11,7 @@ javascripts_dir = "js"
 
 
 
-output_style = "expanded"
+output_style = "compressed"
 relative_assets = "true"
 line_comments = "false"
 # You can select your preferred output style here (can be overridden via the command line):

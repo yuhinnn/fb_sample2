@@ -1,3 +1,6 @@
+@import "compass";
+
+
 *{
 	padding: 0px;
 	margin: 0px;
@@ -12,14 +15,41 @@
 	margin: 0 auto;
 	background-image: url(../images/background1.png);
 }
+.TBlogo {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto; 
+}
+.iine{
+	width: 700px;
+	height: 40px;
+	background-color: black;
+	margin: 0 auto;
+	@include opacity(0.6)
+}
+.box{
+	width: 100px;
+	height: 30px;
+	background-color: gray;
+	margin-right: 50px;
+	margin-top: 5px;
+	@include border-radius(10px);
+	opacity: none;
+	float: right;
 
+	}
+li{
+		list-style-type: none;
+		text-align: center;
+		line-height: 40px;
+	}
 .textbox{
 	text-align: center;
 	margin-top: 20px;
 }
 .pushbutton{
 
-	width: 588px;
+	width: 488px;
 	height: 88px;
 	background-color: #F4B04D;
 	border-radius: 20px;
@@ -32,36 +62,33 @@
 	text-decoration: none;
 }
 .pushbutton2{
-
-	width: 288px;
+	width: 488px;
 	height: 88px;
 	background-color: #F4B04D;
 	border-radius: 20px;
-	margin: 50px 30px;
+	margin: 10px auto;
+	margin-top: 50px;
 	text-align: center;
 	font-size: 30px;
 	line-height: 88px;
 	color: white;
 	box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
 	text-decoration: none;
-	float: left;
 }
 .pushbutton3{
-
-	width: 288px;
-	height: 88px;
-	background-color: #F4B04D;
+	width: 250px;
+	height: 50px;
+	background-color: gray;
 	border-radius: 20px;
-	margin: 50px 30px;
+	margin: 0px auto;
+	margin-top: 40px;
 	text-align: center;
-	font-size: 30px;
-	line-height: 88px;
-	color: white;
+	font-size: 20px;
+	line-height: 50px;
 	box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.8);
 	text-decoration: none;
-	float: left;
-
 }
+
 .pushbutton:hover{
 	background-color: white;
 	color: #F4B04D;
@@ -74,6 +101,7 @@
 	background-color: white;
 	color: #F4B04D;
 }
+
 a{
 	text-decoration: none;
 }
@@ -95,3 +123,4 @@ a{
 .pushtext3{
 	color:white;
 }
+
