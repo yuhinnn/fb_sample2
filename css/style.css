@@ -24,13 +24,6 @@
   }
 
 /* line 23, ../sass/style.scss */
-.iine {
-  width: 700px;
-  height: 40px;
-  background-color: black;
-  margin: 0 auto;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=60);
-  opacity: 0.6; }
 
 /* line 30, ../sass/style.scss */
 .box {
@@ -90,7 +83,7 @@ li {
   width: 250px;
   height: 50px;
   background-color: gray;
-  border-radius: 20px;
+  border-radius: 15px;
   margin: 0px auto;
   margin-top: 30px;
   text-align: center;

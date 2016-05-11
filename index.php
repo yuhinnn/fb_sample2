@@ -3,6 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+  <script type="text/javascript" src="example.js"></script>
+
 	<title>TBFBapp</title>
 
 </head>
